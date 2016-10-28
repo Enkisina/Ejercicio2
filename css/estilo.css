@@ -1,21 +1,45 @@
 @media ( max-width: 1200px){
 	
 	body {
-		background: red;
+		background: #A9F5F2;
 	}
 	}
 
 @media ( max-width: 700px){
 	
 	body {
-		background: yellow;
+		background: #0000FF;
 	}
 	}
 
 @media ( max-width: 500px){
 	
 	body {
-		background: green;
+		background: #08088A;
 	}
 	}
-		
+
+.cuarto{
+	width: 200px;
+	height:200px;
+	background: #F5D0A9;
+	float: left;
+}
+.col1 {
+	width: 50%;
+	height:25%;
+	background: yellow;
+	float: left;
+
+}
+.col2 {
+	width: 50%;
+	height:25%;
+	background: grey;
+	float: left;
+}
+.col3 {
+	width: 50%;
+	height:25%;
+	background: black;
+	float: left;
